@@ -1,10 +1,11 @@
 import './App.css'
-import DataDifference from '../src/Yashwanth/DataDifference'; 
+import Weather from './Components/Weather';
+
 
 function App() {
   return (
     <div >
-     <DataDifference/>
+     <Weather/>
     </div>
   );
 }
